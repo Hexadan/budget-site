@@ -1,0 +1,50 @@
+.display-area
+{
+  background: url(../img/budgeting-pic-1.png) no-repeat center;
+  background-size: cover;
+  height: 400;
+  border-style: solid;
+}
+
+.login-area
+{
+
+  height: 400;
+  border-style: solid;
+}
+
+.login-block
+{
+  padding-top: 20%;
+}
+
+.email-block
+{
+  margin-bottom: 20px;
+}
+
+.password-block
+{
+  margin-bottom: 20px;
+}
+
+.information-area-1
+{
+
+  height: 400;
+  border-style: solid;
+}
+
+.information-area-2
+{
+
+  height: 400;
+  border-style: solid;
+}
+
+.information-area-3
+{
+
+  height: 400;
+  border-style: solid;
+}
