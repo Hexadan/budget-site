@@ -30,21 +30,29 @@
 
 .information-area-1
 {
-
-  height: 400;
+  height: 350;
   border-style: solid;
 }
 
 .information-area-2
 {
-
-  height: 400;
+  height: 250;
   border-style: solid;
 }
 
 .information-area-3
 {
-
   height: 400;
   border-style: solid;
+}
+
+.register-area
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.register-button
+{
+  margin-top: 15px;
 }
