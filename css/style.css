@@ -2,19 +2,7 @@
 {
   background: url(../img/budgeting-pic-1.png) no-repeat center;
   background-size: cover;
-  height: 400;
-
-}
-
-.login-area
-{
-  background-color: white;
-  height: 400;
-}
-
-.login-block
-{
-  padding-top: 20%;
+  height: 400px;
 }
 
 .email-block
@@ -30,19 +18,19 @@
 .information-area-1
 {
   background-color: red;
-  height: 350;
+  height: 350px;
 }
 
 .information-area-2
 {
   background-color: yellow;
-  height: 250;
+  height: 350px;
 }
 
 .information-area-3
 {
   background-color: blue;
-  height: 400;
+  height: 350px;
 }
 
 .register-area
