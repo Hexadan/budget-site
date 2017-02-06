@@ -3,14 +3,13 @@
   background: url(../img/budgeting-pic-1.png) no-repeat center;
   background-size: cover;
   height: 400;
-  border-style: solid;
+
 }
 
 .login-area
 {
-
+  background-color: white;
   height: 400;
-  border-style: solid;
 }
 
 .login-block
@@ -30,20 +29,20 @@
 
 .information-area-1
 {
+  background-color: red;
   height: 350;
-  border-style: solid;
 }
 
 .information-area-2
 {
+  background-color: yellow;
   height: 250;
-  border-style: solid;
 }
 
 .information-area-3
 {
+  background-color: blue;
   height: 400;
-  border-style: solid;
 }
 
 .register-area

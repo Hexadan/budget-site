@@ -1,0 +1,14 @@
+login table -> username, password
+
+profile table -> username, password, email, first name, last name
+
+on creation ->  tbl<username>Account1,
+		tbl<username>Account2,
+		tbl<username>Account3,
+		tbl<username>Budget1,
+		tbl<username>Budget2,
+		tbl<username>Budget3	
+
+tbl<username>Account# -> Account Name, Amount, Payday
+
+tbl<username>Budget# -> Budget Name, Amount Allocated, Renewal/Restart Length (day, week, month)   
